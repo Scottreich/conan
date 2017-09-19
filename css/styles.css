@@ -1,0 +1,10 @@
+body {
+  background-image: url("../img/conan.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.boldwhite {
+  color: white;
+  font-weight: bold;
+}
